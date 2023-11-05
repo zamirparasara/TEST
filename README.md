@@ -67,7 +67,7 @@ Kotlin, XML
 
 
 ## 🌟 Prerequisites
-
+D
 Android Studio
 ## 🔨 Build and Run Application
 
@@ -81,4 +81,7 @@ Follow this steps to get Working Project!
 ## Feedback
 
 If you have any feedback, please reach out to us at tbomble6292@gmail.com
+.
+![Screenshot 2023-11-05 221434](https://github.com/zamirparasara/TEST/assets/127919342/f5dd7775-f950-4c75-a373-2a73ad58434c)
+
 
